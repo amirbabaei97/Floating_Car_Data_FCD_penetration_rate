@@ -1,0 +1,9 @@
+# venv
+.penetration_paper/
+
+# environment variables
+.env
+
+# data files
+
+data/
